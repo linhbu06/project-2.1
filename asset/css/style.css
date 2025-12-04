@@ -44,6 +44,7 @@ a {
 .header {
     margin-top: 44px;
     background-color: #fff;
+    cursor: default;
 }
 
 .sticky {
@@ -128,6 +129,7 @@ a {
 /* hero */
 .hero {
     padding:50px 0 79px;
+    cursor: default;
 }
 
 .hero .sub-hero {
@@ -309,6 +311,7 @@ a {
 
 /* features */
 .features {
+    cursor: default;
     margin-top: 65px;
     padding: 65px 0;
 }
@@ -395,6 +398,7 @@ a {
 /* courses */
 .coursess{
     padding: 65px 0;
+    cursor: default;
 }
 
 .coursess .list {
@@ -534,6 +538,7 @@ a {
 
 /* number */
 .number {
+    cursor: default;
     margin-top: 135px;
     padding: 65px 20px;
 }
@@ -572,6 +577,7 @@ a {
 
 /* susject */
 .susject {
+    cursor: default;
     margin-top: 135px;
     padding: 65px 0;
 }
@@ -707,6 +713,7 @@ a {
 
 /* realdy */
 .realdy {
+    cursor: default;
     margin-top: 65px;
     padding: 76px 0 88px;
     background-color:#DEF6F5 ;
@@ -754,6 +761,7 @@ a {
 
 /* footer */
 .footer {
+    cursor: default;
     margin-top: 80px;
     padding: 50px 0;
 }
