@@ -738,6 +738,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
     width: 186px;
     height: 68px;
     border-radius: 14px;
